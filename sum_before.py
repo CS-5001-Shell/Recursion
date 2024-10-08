@@ -1,5 +1,7 @@
 """
-Implement the following recursive Python function sum_before that takes as a parameter a list of integers and returns True if there is a number in the list that equals the sum of all numbers before it in the list and False otherwise.
+Implement the following recursive Python function sum_before that takes as a
+parameter a list of integers and returns True if there is a number in the list
+that equals the sum of all numbers before it in the list and False otherwise.
 
 For full credit your solution may not use any loops.
 
