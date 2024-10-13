@@ -5,13 +5,13 @@ longest row, in this case 5. You may use one or more helper methods. For full
 credit, your solution may not use any loops.
 
 0
-0 1
-0 1 2
-0 1 2 3
-0 1 2 3 4
-0 1 2 3
-0 1 2
-0 1
+01
+012
+0123
+01234
+0123
+012
+01
 0
 
 """
